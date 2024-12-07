@@ -1,6 +1,10 @@
 # How Much?
 
-**How Much?** Sabe quando você está no mercado e está na dúvida se o preço daquele produto aumentou ou não desde a sua última compra? Com **How Much?** apos ter comprado o produto, você faz o upload do cupom fiscal, a aplicação guardara cada item comprado, o valor, a data e o local para consultas fulturas. Apenas isso.
+Já se pegou no mercado pensando: "Será que esse produto ficou mais caro desde a última vez que comprei?"
+
+Com How Much?, essa dúvida pode ser resolvida facilmente. Basta fazer o upload do cupom fiscal, e a aplicação armazena cada item comprado, o preço, a data e até o local. Tudo fica acessível para que seja possível comparar preços e tomar decisões mais inteligentes no futuro.
+
+Simples assim. Sem complicações. Apenas o essencial.
 
 O projeto é uma plataforma web que utiliza o Spring Boot no backend, Vue.js no frontend e SQLite para armazenamento de dados.
 
