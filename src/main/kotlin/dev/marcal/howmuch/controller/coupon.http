@@ -1,0 +1,312 @@
+POST localhost:8080/api/coupons
+Content-Type: application/json
+
+{
+  "store": "DIA A DIA DF - CEILÂNDIA",
+  "cnpj": "17.457.404/0001-01",
+  "date_time": "07/12/2024 08:51",
+  "access_key": "53241217457404000101653090001132771001051229",
+  "items": [
+    {
+      "id": "001",
+      "description": "Apple Gala",
+      "quantity": 1.99,
+      "unit_price": 12.99,
+      "total_price": 25.82
+    },
+    {
+      "id": "002",
+      "description": "Banana Prata (kg)",
+      "quantity": 1.88,
+      "unit_price": 5.99,
+      "total_price": 11.27
+    },
+    {
+      "id": "003",
+      "description": "Chayote (kg)",
+      "quantity": 0.67,
+      "unit_price": 3.89,
+      "total_price": 2.59
+    },
+    {
+      "id": "004",
+      "description": "Sweet Potato (kg)",
+      "quantity": 1.15,
+      "unit_price": 3.99,
+      "total_price": 4.58
+    },
+    {
+      "id": "005",
+      "description": "Yellow Melon (kg)",
+      "quantity": 2.62,
+      "unit_price": 3.99,
+      "total_price": 10.44
+    },
+    {
+      "id": "006",
+      "description": "Tomato (kg)",
+      "quantity": 1.27,
+      "unit_price": 2.49,
+      "total_price": 3.17
+    },
+    {
+      "id": "007",
+      "description": "Pumpkin Italy (kg)",
+      "quantity": 0.68,
+      "unit_price": 4.99,
+      "total_price": 3.40
+    },
+    {
+      "id": "008",
+      "description": "Tommy Mango (kg)",
+      "quantity": 1.25,
+      "unit_price": 3.59,
+      "total_price": 4.47
+    },
+    {
+      "id": "009",
+      "description": "Potato (kg)",
+      "quantity": 1.37,
+      "unit_price": 5.90,
+      "total_price": 7.92
+    },
+    {
+      "id": "010",
+      "description": "Carrot (kg)",
+      "quantity": 1.67,
+      "unit_price": 2.89,
+      "total_price": 4.84
+    },
+    {
+      "id": "011",
+      "description": "Italac UHT Milk Integral 1L",
+      "quantity": 3.00,
+      "unit_price": 3.98,
+      "total_price": 11.94
+    },
+    {
+      "id": "012",
+      "description": "Italac UHT Milk Integral 1L",
+      "quantity": 1.00,
+      "unit_price": 7.49,
+      "total_price": 7.49
+    },
+    {
+      "id": "013",
+      "description": "Italac UHT Milk Integral 1L",
+      "quantity": 1.00,
+      "unit_price": 7.49,
+      "total_price": 7.49
+    },
+    {
+      "id": "014",
+      "description": "Surf Liquid Laundry Detergent 7L",
+      "quantity": 1.00,
+      "unit_price": 54.99,
+      "total_price": 54.99
+    },
+    {
+      "id": "015",
+      "description": "Ypê Liquid Dish Soap 5L",
+      "quantity": 1.00,
+      "unit_price": 22.99,
+      "total_price": 22.99
+    },
+    {
+      "id": "016",
+      "description": "Deluxe Toilet Paper 12R",
+      "quantity": 1.00,
+      "unit_price": 10.99,
+      "total_price": 10.99
+    },
+    {
+      "id": "017",
+      "description": "Uva Vitória Selection 400g",
+      "quantity": 1.00,
+      "unit_price": 9.99,
+      "total_price": 9.99
+    },
+    {
+      "id": "018",
+      "description": "Onion (kg)",
+      "quantity": 0.88,
+      "unit_price": 1.99,
+      "total_price": 1.74
+    },
+    {
+      "id": "019",
+      "description": "Listerine Mouthwash 1L",
+      "quantity": 1.00,
+      "unit_price": 35.99,
+      "total_price": 35.99
+    },
+    {
+      "id": "020",
+      "description": "Listerine Mouthwash 1L",
+      "quantity": 1.00,
+      "unit_price": 35.99,
+      "total_price": 35.99
+    },
+    {
+      "id": "021",
+      "description": "Beetroot (kg)",
+      "quantity": 1.36,
+      "unit_price": 3.39,
+      "total_price": 4.60
+    },
+    {
+      "id": "022",
+      "description": "Luxury Vegetable Sponge",
+      "quantity": 1.00,
+      "unit_price": 12.49,
+      "total_price": 12.49
+    },
+    {
+      "id": "023",
+      "description": "Luxury Vegetable Sponge",
+      "quantity": 1.00,
+      "unit_price": 12.49,
+      "total_price": 12.49
+    },
+    {
+      "id": "024",
+      "description": "Luxury Vegetable Sponge",
+      "quantity": 1.00,
+      "unit_price": 12.49,
+      "total_price": 12.49
+    },
+    {
+      "id": "025",
+      "description": "Lemon (kg)",
+      "quantity": 0.77,
+      "unit_price": 8.49,
+      "total_price": 6.54
+    },
+    {
+      "id": "026",
+      "description": "Italian Rice Type 1 (5kg)",
+      "quantity": 2.00,
+      "unit_price": 24.79,
+      "total_price": 49.58
+    },
+    {
+      "id": "027",
+      "description": "Carioca Beans Kicaldo (1kg)",
+      "quantity": 5.00,
+      "unit_price": 6.99,
+      "total_price": 34.95
+    },
+    {
+      "id": "028",
+      "description": "Corn Flakes Cereal (190g)",
+      "quantity": 3.00,
+      "unit_price": 8.79,
+      "total_price": 26.37
+    },
+    {
+      "id": "029",
+      "description": "Bauducco Biscuit (170g)",
+      "quantity": 1.00,
+      "unit_price": 4.59,
+      "total_price": 4.59
+    },
+    {
+      "id": "030",
+      "description": "Bauducco Whole Wheat Toast (142g)",
+      "quantity": 3.00,
+      "unit_price": 4.99,
+      "total_price": 14.97
+    },
+    {
+      "id": "031",
+      "description": "Limpol All-Purpose Cleaner 500ml",
+      "quantity": 1.00,
+      "unit_price": 2.49,
+      "total_price": 2.49
+    },
+    {
+      "id": "032",
+      "description": "Blue Trash Bags 15L (20 pcs)",
+      "quantity": 1.00,
+      "unit_price": 4.99,
+      "total_price": 4.99
+    },
+    {
+      "id": "033",
+      "description": "Blue Trash Bags 15L (20 pcs)",
+      "quantity": 1.00,
+      "unit_price": 4.99,
+      "total_price": 4.99
+    },
+    {
+      "id": "034",
+      "description": "Blue Trash Bags 15L (20 pcs)",
+      "quantity": 1.00,
+      "unit_price": 4.99,
+      "total_price": 4.99
+    },
+    {
+      "id": "035",
+      "description": "Multipurpose Sponge (4 pcs)",
+      "quantity": 1.00,
+      "unit_price": 3.39,
+      "total_price": 3.39
+    },
+    {
+      "id": "036",
+      "description": "Limpol All-Purpose Cleaner 500ml",
+      "quantity": 1.00,
+      "unit_price": 2.49,
+      "total_price": 2.49
+    },
+    {
+      "id": "037",
+      "description": "Economic Trash Bag 50L",
+      "quantity": 1.00,
+      "unit_price": 26.99,
+      "total_price": 26.99
+    },
+    {
+      "id": "038",
+      "description": "Japanese Pumpkin Part (kg)",
+      "quantity": 0.99,
+      "unit_price": 1.99,
+      "total_price": 1.98
+    },
+    {
+      "id": "039",
+      "description": "Piracanjuba Cacao Whey Drink (250ml)",
+      "quantity": 1.00,
+      "unit_price": 4.99,
+      "total_price": 4.99
+    },
+    {
+      "id": "040",
+      "description": "Skala Apple Vinegar Shampoo",
+      "quantity": 1.00,
+      "unit_price": 9.99,
+      "total_price": 9.99
+    },
+    {
+      "id": "041",
+      "description": "Maguary 100% Grape/Apple Juice (150ml)",
+      "quantity": 6.00,
+      "unit_price": 1.69,
+      "total_price": 10.14
+    },
+    {
+      "id": "042",
+      "description": "Mabel Coconut Cookies (600g)",
+      "quantity": 1.00,
+      "unit_price": 7.79,
+      "total_price": 7.79
+    }
+  ]
+}
+
+<> 2024-12-07T115834.400.json
+<> 2024-12-07T115030.400.json
+
+
+###
+
